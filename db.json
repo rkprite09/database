@@ -1,0 +1,28 @@
+{
+    "front-end": [
+        {
+            "title": "dev-environment",
+            "technologies": {
+                "source-code": "Git and Github",
+                "code-editor": "Vs code or Sublime",
+                "recomanded": "Node.js and NPM",
+                "task-runner": "Gulp",
+                "bundler": "Webpack"
+            }
+        },
+        {
+            "title": "core-technologies",
+            "technologies": {
+                "static": "HTML & CSS",
+                "interactive": "Javascript"
+            }
+        },
+        {
+            "title": "framework & library",
+            "technologies":{
+                "framework": "Angular.js or Vue.js",
+                "library": "JQuery and React"
+            }
+        }
+    ]
+}
